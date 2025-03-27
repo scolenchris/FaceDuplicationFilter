@@ -24,7 +24,7 @@ Face recognition technology has long been a hot topic in cutting-edge academic r
 
 Our system addresses this need by utilizing a carefully trained face quality assessment model to effectively extract the most distinctive face data while filtering out low-distinctiveness redundant data. This process not only improves training efficiency but also significantly accelerates model convergence, thereby enhancing overall system performance and reliability.
 
-[Program Flowchart Here]
+![image](https://github.com/user-attachments/assets/0d2f93a3-1be1-4b3a-ba83-f1f3778567ff)
 
 ## Technical Innovations
 

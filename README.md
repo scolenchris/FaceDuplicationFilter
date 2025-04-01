@@ -13,7 +13,6 @@
   - [Environment Setup and Usage](#environment-setup-and-usage)
     - [Method 1: Complete Package](#method-1-complete-package)
     - [Method 2: Conda Installation](#method-2-conda-installation)
-  - [Usage](#usage)
   - [License](#license)
 
 ## Project Overview
@@ -81,10 +80,6 @@ Our system addresses this need by utilizing a carefully trained face quality ass
    - Recommended weights: `r100.pth` and `ediffiqaL.pth`
    - Place them in the `weights` folder
 4. Run `allmain.py`
-
-## Usage
-
-[Add usage instructions here if needed]
 
 ## License
 
